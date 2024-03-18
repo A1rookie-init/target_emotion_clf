@@ -1,0 +1,6 @@
+torch==2.0.1.*
+transformers==4.23.1
+datasets==2.14.0
+wandb==0.13.4
+emoji==0.6.0
+soynlp==0.0.493
